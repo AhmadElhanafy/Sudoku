@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Collage work\Archive\Data structures\sudoko\sudoko\Source.cpp(43,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Collage work\Archive\Data structures\sudoko\sudoko\Source.cpp(678,13): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  sudokostack.cpp
+  Generating Code...
+  sudoko.vcxproj -> D:\Collage work\Archive\Data structures\sudoko\x64\Debug\sudoko.exe
